@@ -14,5 +14,6 @@ public class Practisejava {
     public static int Sum(int n1, int n2) {
         return n1 + n2;
     }
+    Scanner.close();
 
 }
