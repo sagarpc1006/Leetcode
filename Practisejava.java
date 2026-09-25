@@ -9,4 +9,9 @@ public class Practisejava {
     static void fun(int... h) {
         System.out.println(Arrays.toString(h));
     }
+
+    public static int Sum(int n1, int n2) {
+        return n1 + n2;
+    }
+
 }
